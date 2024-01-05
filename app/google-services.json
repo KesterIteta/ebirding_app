@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697040724326",
+    "project_id": "featherfinder-a74c0",
+    "storage_bucket": "featherfinder-a74c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697040724326:android:f41434c083177bc0ae28a7",
+        "android_client_info": {
+          "package_name": "za.edu.varsitycollege.featherfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3kwP_V8ZA_pxuK023_dHXB8PPd9iPqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
